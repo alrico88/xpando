@@ -1,14 +1,15 @@
 $primary: #82fb8e;
+$bg-green: #004d40;
 
 @import 'node_modules/bootstrap/scss/bootstrap.scss';
 
 .bg-intense {
-  background-color: #004d40;
+  background-color: $bg-green;
   color: white;
 }
 
 a {
-  color: #004d40;
+  color: $bg-green;
 }
 
 .bg-less {

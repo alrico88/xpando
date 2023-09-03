@@ -1,5 +1,10 @@
 {
-  "name": "unshort",
+  "name": "xpando",
+  "author": {
+    "url": "https://alrico.es",
+    "name": "Alberto Rico"
+  },
+  "license": "MIT",
   "version": "1.0.0",
   "private": true,
   "scripts": {

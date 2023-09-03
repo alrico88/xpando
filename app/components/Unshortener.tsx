@@ -1,4 +1,4 @@
-import { unshorten } from '../(unshortener)/unshorten';
+import { unshorten } from '../(helpers)/unshorten';
 import { BsGlobeAmericas as IconGlobe } from 'react-icons/bs';
 import { FaArrowsTurnRight as IconRedirect } from 'react-icons/fa6';
 import { GrStatusUnknown as IconCode } from 'react-icons/gr';

@@ -77,7 +77,7 @@ export default function Index({
                     <div className="col-md-6 col-12">
                       For API usage, use{' '}
                       <code>
-                        https://xtendo.vercel.app/api/resolve?site=
+                        https://xpando.vercel.app/api/resolve?site=
                         {site ?? 'YOUR_URL_HERE'}
                       </code>
                     </div>

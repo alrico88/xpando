@@ -1,4 +1,4 @@
-import { unshorten } from '@/app/(unshortener)/unshorten';
+import { unshorten } from '@/app/(helpers)/unshorten';
 import { NextResponse } from 'next/server';
 import { NextRequest } from 'next/server';
 
