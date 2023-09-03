@@ -1,0 +1,32 @@
+$primary: #82fb8e;
+
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+
+.bg-intense {
+  background-color: #004d40;
+  color: white;
+}
+
+a {
+  color: #004d40;
+}
+
+.bg-less {
+  background-color: #e8faec;
+}
+
+.icon {
+  margin-top: -4px;
+}
+
+.link-unstyled {
+  text-decoration: none;
+  color: inherit;
+
+  &:hover {
+    text-decoration: underline;
+    text-underline-offset: 0.8rem;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 2px;
+  }
+}
